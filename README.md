@@ -25,7 +25,7 @@
 
 ## 🧰 Languages and Tools
 <p align="center">
-<img src="https://camo.githubusercontent.com/07ff93f03eed50f8c92c75e76c4c12561675fdc6707a6262dd84954a3d38b633/68747470733a2f2f6269742e6c792f33374570793279" alt="C++" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/49bd668a4b89508b88508c17e2dda85f96108a1d644e69eaed828dbb4e0a95d5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" alt="C++" height="40" style="vertical-align:top; margin:4px">
  <img src="https://camo.githubusercontent.com/d5018e8d6194afbc0a7874bf55df5e7b0111f8abe4e622ae2200b124e33d6fe2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://camo.githubusercontent.com/0e09bd8aa8f06b2a1946dddff9415ba1df25f461852741979c5bb7bdc4860908/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
