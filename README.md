@@ -26,11 +26,11 @@
 ## 🧰 Languages and Tools
 <p align="center">
 <img src="https://camo.githubusercontent.com/49bd668a4b89508b88508c17e2dda85f96108a1d644e69eaed828dbb4e0a95d5/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" alt="C++" height="40" style="vertical-align:top; margin:4px">
- <img src="https://camo.githubusercontent.com/d5018e8d6194afbc0a7874bf55df5e7b0111f8abe4e622ae2200b124e33d6fe2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/0e09bd8aa8f06b2a1946dddff9415ba1df25f461852741979c5bb7bdc4860908/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" alt="CSS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/5bba47d4511f9a33fb5d51568aeb4a072b6f582d1d785d620e871768f92f137b/68747470733a2f2f6269742e6c792f3379766f456a52" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/7103f113b51b322fa8c821169ac24f07758e2ce8a6d9515162e1b2ec3363248d/68747470733a2f2f6269742e6c792f3377766f344169" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJs" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo Db" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Mongo Db" height="40" style="vertical-align:top; margin:4px">
